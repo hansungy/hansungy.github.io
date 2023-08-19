@@ -2,7 +2,7 @@
 layout: post
 title:  "On the Convergence of Continual Learning with Adaptive Methods"
 date:   2023-08-12 22:21:59 +00:00
-image: tn/images/nccl_uai.png
+image: images/nccl_uai.png
 categories: research
 author: "Suengyub Han"
 authors: "<strong>Seungyub Han</strong>, Yeongmo Kim, Taehyun Cho, Jungwoo Lee"
