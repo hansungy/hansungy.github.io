@@ -7,7 +7,7 @@ categories: research
 author: "Suengyub Han"
 authors: "<strong>Seungyub Han</strong>, Yeongmo Kim, Taehyun Cho, Jungwoo Lee"
 venue: "UAI 2023"
-arxiv: https://proceedings.mlr.press/v216/han23a.html
+paper: https://proceedings.mlr.press/v216/han23a.html
 slides: 
 code: 
 ---

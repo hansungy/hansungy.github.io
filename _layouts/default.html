@@ -27,7 +27,7 @@
               <h1>
                 Seungyub Han
               </h1>
-              <p>I am a PhD student at the <a href="https://cml.snu.ac.kr//">Communications and Machine Learning Laboratory</a>, part of the <a href="https://ece.snu.ac.kr/">Department of Electrical and Computer Engineering</a> at <a href="https://www.snu.ac.kr/">Seoul National University</a>, where I work on Reinforcment Learning and Deep Learning. My PhD advisor is <a href="https://cml.snu.ac.kr/?page_id=5948">Jungwoo Lee</a>.
+              <p>I am a PhD student at the <a href="https://cml.snu.ac.kr//">Communications and Machine Learning Laboratory</a>, part of the <a href="https://ece.snu.ac.kr/">Department of Electrical and Computer Engineering</a> at <a href="https://www.snu.ac.kr/">Seoul National University</a>, where I work on Reinforcement Learning, Robotics, and Deep Learning. My PhD advisor is <a href="https://cml.snu.ac.kr/?page_id=5948">Jungwoo Lee</a>.
               </p>
               <p>
                 I have a BS in EE from <a href="https://ece.snu.ac.kr">Seoul National University</a>.
@@ -50,7 +50,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Research</h2>
+              <h2>Selected Publications</h2>
               <p>
                 I'm interested in reinforcment learning, robot learning, optimization, and representation learning.
               </p>
@@ -74,6 +74,9 @@
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
@@ -103,7 +106,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Other Projects</h2>
+              <h2>Publication</h2>
               <p>TBD
               </p>
             </td>
