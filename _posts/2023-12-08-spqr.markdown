@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning"
+date:   2023-12-07 22:21:59 +00:00
+image: images/spqr.png
+categories: research
+author: "Doheok Lee"
+authors: "Dohyeok Lee, <strong>Seungyub Han</strong>, Taehyun Cho, Jungwoo Lee"
+venue: "NeurIPS 2023"
+paper: https://openreview.net/forum?id=q0sdoFIfNg
+slides: 
+code: 
+---
+By introducing a novel regularization loss for Q-ensemble independence based on random matrix theory, we propose spiked Wishart Q-ensemble independence regularization (SPQR) for reinforcement learning.
