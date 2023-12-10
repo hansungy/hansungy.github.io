@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pitfall of Optimism: Distributional Reinforcement Learning by Randomizing Risk Criterion"
-date:   2023-12-09 22:21:59 +00:00
+date:   2023-12-07 22:21:59 +00:00
 image: images/pqr.png
 categories: research
 author: "Taehyun Cho"
