@@ -123,16 +123,17 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>{{post.categories}} {{post.course}}</em>
+              {{post.authors}}
+
               <br>
-              {{ post.date | date: "%Y-%m-%d" }}
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
 
               <br>
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
+              {% if post.arxiv %}
+              <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
               {% if post.patent %}
               <a href="{{post.patent}}">patent</a> /
