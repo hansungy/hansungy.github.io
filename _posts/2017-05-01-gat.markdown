@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN"
+date:   2017-05-01 20:21:59 +00:00
+image: images/gat.png
+categories: preprint
+author: "Seungyub Han"
+authors: "Hyeungill Lee, <strong>Seungyub Han</strong>, Jungwoo Lee"
+venue: 
+paper: 
+arxiv: https://arxiv.org/abs/1705.03387
+slides: 
+code: 
+---
+We propose a novel technique to make neural network robust to adversarial examples using a generative adversarial network. We alternately train both classifier and generator networks. The generator network generates an adversarial perturbation that can easily fool the classifier network by using a gradient of each image.
