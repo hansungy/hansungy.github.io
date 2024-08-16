@@ -8,7 +8,8 @@ author: "Doheok Lee"
 authors: "Dohyeok Lee, <strong>Seungyub Han</strong>, Taehyun Cho, Jungwoo Lee"
 venue: "NeurIPS 2023"
 paper: https://openreview.net/forum?id=q0sdoFIfNg
+arxiv: https://arxiv.org/abs/2401.03137
 slides: 
-code: 
+code: https://github.com/dohyeoklee/SPQR
 ---
 By introducing a novel regularization loss for Q-ensemble independence based on random matrix theory, we propose spiked Wishart Q-ensemble independence regularization (SPQR) for reinforcement learning.
