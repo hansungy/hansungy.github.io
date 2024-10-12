@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees"
-date:   2024-10-12 22:21:59 +00:00
+date:   2024-10-10 22:21:59 +00:00
 image: images/kim_spectral.png
 categories: research
 author: "Dohyeong Kim"
