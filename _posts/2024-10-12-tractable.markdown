@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN"
+title:  "Tractable and Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation"
 date:   2024-07-10 20:21:59 +00:00
 image: images/statistical_functional.png
 categories: preprint
