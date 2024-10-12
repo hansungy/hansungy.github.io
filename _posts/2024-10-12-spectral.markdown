@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees"
+date:   2024-10-12 22:21:59 +00:00
+image: images/kim_spectral.png
+categories: research
+author: "Dohyeong Kim"
+authors: "Dohyeong Kim, Taehyun Cho, <strong>Seungyub Han</strong>, Hojun Chung, Kyungjae Lee, Songhwai Oh"
+venue: "NeurIPS 2024"
+paper: 
+arxiv: https://arxiv.org/abs/2405.18698
+slides: 
+code: 
+---
+ We propose a safe RL algorithm with spectral risk constraints, which shows convergence to an optimum in tabular settings.
+
+
+
