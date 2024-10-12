@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Adaptive Methods for Nonconvex Continual Learning"
+date:   2022-12-03 22:21:59 +00:00
+image: images/nccl_opt_ml.png
+categories: research
+author: "Suengyub Han"
+authors: "<strong>Seungyub Han</strong>, Yeongmo Kim, Taehyun Cho, Jungwoo Lee"
+venue: "NeurIPS 2022 Optimization for Machine Learning Workshop"
+paper: https://opt-ml.org/oldopt/papers/2022/paper14.pdf
+slides: 
+code: 
+---
+We propose an adaptive method for nonconvex continual learning (NCCL), which adjusts step sizes of both previous and current tasks with the gradients.
