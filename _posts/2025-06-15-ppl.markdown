@@ -13,4 +13,4 @@ arxiv: https://www.arxiv.org/abs/2505.06273
 slides: 
 code: 
 ---
- <strong>Spotlight paper</strong> We propose Policy-labeled Preference Learning (PPL) within the Direct Preference Optimization (DPO) framework, which resolves these likelihood mismatch problems by modeling human preferences with regret, reflecting the efficiency of executed policies. Experiments in high-dimensional continuous control environments demonstrate PPL's significant improvements in offline RLHF performance and its effectiveness in online settings.
+ We propose Policy-labeled Preference Learning (PPL) within the Direct Preference Optimization (DPO) framework, which resolves these likelihood mismatch problems by modeling human preferences with regret, reflecting the efficiency of executed policies. Experiments in high-dimensional continuous control environments demonstrate PPL's significant improvements in offline RLHF performance and its effectiveness in online settings.
