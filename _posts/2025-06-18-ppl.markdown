@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Policy-labeled Preference Learning: Is Preference Enough for RLHF?"
+date:   2025-06-18 20:21:59 +00:00
+image: images/ppl.png
+categories: research
+author: "Taehyun Cho"
+authors: "Taehyun Cho, Seokhun Ju, <strong>Seungyub Han</strong>,  Dohyeong Kim, Kyungjae Lee,  Jungwoo Lee"
+venue: "ICML 2025"
+paper: https://openreview.net/forum?id=qLfo1sef50
+arxiv: https://www.arxiv.org/abs/2505.06273
+slides: 
+code: 
+---
+ <strong>Spotlight paper</strong> We propose Policy-labeled Preference Learning (PPL) within the Direct Preference Optimization (DPO) framework, which resolves these likelihood mismatch problems by modeling human preferences with regret, reflecting the efficiency of executed policies. Experiments in high-dimensional continuous control environments demonstrate PPL's significant improvements in offline RLHF performance and its effectiveness in online settings.
