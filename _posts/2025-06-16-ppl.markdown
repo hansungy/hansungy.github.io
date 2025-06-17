@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Policy-labeled Preference Learning: Is Preference Enough for RLHF?"
-date:   2025-06-18 20:21:59 +00:00
+date:   2025-06-16 21:21:59 +00:00
 image: images/ppl.png
 categories: research
 author: "Taehyun Cho"
